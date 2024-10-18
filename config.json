@@ -1,8 +1,8 @@
 {
-  "name": "Pure",
-  "version": "1.3.2",
+  "name": "Pure2",
+  "version": "2.3.2",
   "author": "imhanjie",
-  "repository": "https://github.com/imhanjie/gridea-theme-pure",
+  "repository": "https://github.com/TailendWong/gridea-theme-pure",
   "customConfig": [
     {
       "name": "skin",
